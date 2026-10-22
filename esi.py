@@ -1,3 +1,4 @@
+
 """ESI (Employees' State Insurance) contribution rules for the demo HRMS.
 
 The rates and wage ceiling here are sample values. Please check them with
